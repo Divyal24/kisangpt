@@ -1,5 +1,5 @@
-import streamlit as st                                                  
-import pandas as pd                                                     
-import matplotlib.pyplot as plt                                         
-import seaborn as sns                                                   
-import base64                                                           
+streamlit                                                 
+pandas                                                    
+matplotlib                                     
+seaborn                                                   
+base64                                                           
