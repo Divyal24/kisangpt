@@ -89,7 +89,7 @@ if st.button("Get Resources"):
 # Back arrow at the top left corner
 st.markdown(f'''
     <div class="back-arrow">
-        <a href="http://localhost:8501">
+        <a href="https://kisangpt-6swjrp2hvbgx7l48gqoesh.streamlit.app/">
             <img src="data:image/png;base64,{encoded_back_arrow}" alt="Back Arrow">
         </a>
     </div>
