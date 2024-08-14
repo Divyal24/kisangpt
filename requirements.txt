@@ -3,7 +3,6 @@ pandas
 matplotlib                                     
 seaborn 
 Groq
-Translate
 translatepy
 speech_recognition
 nltk
