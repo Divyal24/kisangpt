@@ -4,3 +4,9 @@ matplotlib
 seaborn 
 Groq
 Translate
+translatepy
+speech_recognition
+nltk
+nltk.corpus 
+nltk.stem
+nltk.tokenize
