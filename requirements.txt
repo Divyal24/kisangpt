@@ -4,7 +4,7 @@ matplotlib
 seaborn 
 Groq
 translatepy
-speech_recognition
+SpeechRecognition
 nltk
 nltk.corpus 
 nltk.stem
